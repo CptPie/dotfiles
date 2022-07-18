@@ -137,6 +137,7 @@ ex ()
 }
 
 alias vim=nvim
+export EDITOR=nvim
 
 source /home/cptpie/.config/broot/launcher/bash/br
 
